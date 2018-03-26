@@ -141,4 +141,4 @@ Fanny   | Forsberg  |
 ## Färdigställ
 
 - Tag bort alla stycken markerade med **TODO** och **INFO**.
-- Tag bort hela detta avsnitt, dvs tag bort avsnittet [Färdigställ(./#fardigstall).
+- Tag bort hela detta avsnitt, dvs tag bort avsnittet [Färdigställ](./#fardigstall).
