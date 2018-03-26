@@ -2,8 +2,6 @@
 
 OSPP (1DT096) 2018 - Grupp alpha
 
-Gå till [ankare](#en-rubrik-med-åäö).
-
 **TODO:** Ändra **alpha** till namnet på gruppen (alpha, beta, gamma, gamma,
 delta, epsilon, zeta, eta, theta or iota).
 
@@ -31,11 +29,7 @@ till `180` pixlar.
  bra att byta ut hela tabellen mot en HTML-tabell. 
 
 **INFO:** För att länka till en rubrik på formen `En rubrik med åäö` använd
-ankaret `#en-rubrik-med-aao`.
-
-## En rubrik med åäö
-
-Fnutt
+ankaret `#en-rubrik-med-åäö`.
 
 Bild                                     | Förnamn                     | Efternamn | Personnummer | Användarnamn (GitHub)
 -----------------------------------------|-----------------------------|-----------|--------------|----------------------
