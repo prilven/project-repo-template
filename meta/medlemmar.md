@@ -9,7 +9,7 @@ delta, epsilon, zeta, eta, theta or iota).
 formatet [Markdown](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/).
 
 **INFO:** Det går att redigera, förhandsvisa och spara (commit)
-sidan](./medlemmar.md) på GitHub direkt i din webbläsare.
+[sidan](./medlemmar.md) på GitHub direkt i din webbläsare.
 
 **INFO:** För att lärarna på kursen skall kunna följa och bedöma era
 arbetsinsatser är det viktigt att vi vet vem som är vem vid till exempel
