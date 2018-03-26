@@ -2,6 +2,8 @@
 
 OSPP (1DT096) 2018 - Grupp alpha
 
+Gå till [ankare](#en-rubrik-med-aao).
+
 **TODO:** Ändra **alpha** till namnet på gruppen (alpha, beta, gamma, gamma,
 delta, epsilon, zeta, eta, theta or iota).
 
