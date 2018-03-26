@@ -28,6 +28,13 @@ till `180` pixlar.
 **INFO:** Om ni inte vill bråka med syntaxen för tabeller i Markdown går det
  bra att byta ut hela tabellen mot en HTML-tabell. 
 
+**INFO:** För att länka till en rubrik på formen `En rubrik med åäö` använd
+ankaret `#en-rubrik-med-aao`.
+
+##En rubrik med åäö
+
+Fnutt
+
 Bild                                     | Förnamn                     | Efternamn | Personnummer | Användarnamn (GitHub)
 -----------------------------------------|-----------------------------|-----------|--------------|----------------------
 <img src="images/user.png" width="180"/> | [Anders](#anders-andersson) | Andersson | YYMMDD-XXXX  | `anders877`
