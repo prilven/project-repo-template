@@ -6,7 +6,7 @@ OSPP (1DT096) 2018 - Grupp alpha
 delta, epsilon, zeta, eta, theta or iota).
 
 **INFO:** Detta dokument är skrivet i
-formatet [Markdown](https://help.github.com/articles/markdown-basics/).
+formatet [Markdown](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/).
 
 **INFO:** Det går att redigera, förhandsvisa och spara (commit) sidan direkt i
 en webläsare via [projektsidan på github.com](.).
