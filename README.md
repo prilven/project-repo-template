@@ -2,31 +2,31 @@
 
 OSPP (1DT096) 2018 - Grupp alpha
 
-**TODO: ** Ändra **alpha** till namnet på gruppen (alpha, beta, gamma, gamma,
+**TODO:** Ändra **alpha** till namnet på gruppen (alpha, beta, gamma, gamma,
 delta, epsilon, zeta, eta, theta or iota).
 
-**INFO: ** Detta dokument är skrivet i
+**INFO:** Detta dokument är skrivet i
 formatet [Markdown](https://help.github.com/articles/markdown-basics/).
 
-**INFO: ** Det går att redigera, förhandsvisa och spara (commit) sidan direkt i
+**INFO:** Det går att redigera, förhandsvisa och spara (commit) sidan direkt i
 en webläsare via [projektsidan på github.com](.).
 
 Projektarbete på kursen Operativsystem och processorienterad
 programmering (1DT096) våren 2018, Uppsala universitet.
 
-**TODO: ** Lägg till en kort beskrivning av projektet.
+**TODO:** Lägg till en kort beskrivning av projektet.
 
-**TODO: ** Länk(ar) till mer utförlig dokumentation. 
+**TODO:** Länk(ar) till mer utförlig dokumentation. 
 
 ## Kom igång
 
-**TODO: ** Kortfattade instruktioner som beskriver hur projektet byggs
+**TODO:** Kortfattade instruktioner som beskriver hur projektet byggs
 (kompileras eller liknande), testas (automatiska tester) och startas. Lägg gärna
 till lämpliga underrubriker.
 
 ## Struktur
 
-**TODO: ** Lägg till en kortfattad beskrivning över katalogstrukturen. 
+**TODO:** Lägg till en kortfattad beskrivning över katalogstrukturen. 
 
 **meta**
 

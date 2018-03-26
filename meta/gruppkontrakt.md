@@ -2,13 +2,13 @@
 
 OSPP (1DT096) 2018 - Grupp alpha
 
-**TODO: ** Ändra **alpha** till namnet på gruppen (alpha, beta, gamma, gamma,
+**TODO:** Ändra **alpha** till namnet på gruppen (alpha, beta, gamma, gamma,
 delta, epsilon, zeta, eta, theta or iota).
 
-**INFO: ** Detta dokument är skrivet i
+**INFO:** Detta dokument är skrivet i
 formatet [Markdown](https://help.github.com/articles/markdown-basics/).
 
-**INFO: ** Det går att redigera, förhandsvisa och spara (commit) sidan direkt i
+**INFO:** Det går att redigera, förhandsvisa och spara (commit) sidan direkt i
 en webläsare via [projektsidan på github.com](.).
 
 ## Syfte
@@ -35,7 +35,7 @@ Denna mall för gruppkontrakt är baserat på:
 
 - http://www.cemus.uu.se/dokument/hub2010/Gruppkontrakt.pdf
 
-**TODO: ** Gruppen skall tillsammans utgå från denna mall (ändra, ta bort eller
+**TODO:** Gruppen skall tillsammans utgå från denna mall (ändra, ta bort eller
  lägga till text och rubriker) för att komma fram till ett gruppkontrakt som
  alla i gruppen är nöjda med.
 
