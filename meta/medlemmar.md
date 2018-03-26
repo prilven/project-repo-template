@@ -28,9 +28,9 @@ till `180` pixlar.
 **INFO:** Om ni inte vill bråka med syntaxen för tabeller i Markdown går det
  bra att byta ut hela tabellen mot en HTML-tabell. 
 
-Bild                                     | Förnamn               | Efternamn | Personnummer | Användarnamn (GitHub)
------------------------------------------|-----------------------|-----------|--------------|----------------------
-<img src="images/user.png" width="180"/> | [Anders](#anders877)  | Andersson | YYMMDD-XXXX  | `anders877`
+Bild                                     | Förnamn                     | Efternamn | Personnummer | Användarnamn (GitHub)
+-----------------------------------------|-----------------------------|-----------|--------------|----------------------
+<img src="images/user.png" width="180"/> | [Anders](#anders-andersson) | Andersson | YYMMDD-XXXX  | `anders877`
 
 **TODO:** Utgå från mallen nedan och skapa ett avsnitt för varje medlem
 i gruppen sorterade i bokstavsordning.
