@@ -20,10 +20,15 @@ muntliga presentationer och andra möten.
  `meta/images/`. Fyll sedan i tabellen nedan. Tabellen skall vara sorterad på
  förnamn.
 
-**INFO:** Om ni inte vill bråka med syntaxen för tabeller i Markdown går det
- bra att använda HTML-syntax.
+**INFO:** För sådant som inte går att uttrycka med den variant av Markdown som
+GitHub använder går det bra att använda HTML istället. Till exempel går det att
+använda en `<img src="..." width="180"/>` tag för att sätta bredden på en bild
+till `180` pixlar. 
 
-Bild                                  t    | Förnamn               | Efternamn | Personnummer | Användarnamn (GitHub)
+**INFO:** Om ni inte vill bråka med syntaxen för tabeller i Markdown går det
+ bra att byta ut hela tabellen mot en HTML-tabell. 
+
+Bild                                     | Förnamn               | Efternamn | Personnummer | Användarnamn (GitHub)
 -----------------------------------------|-----------------------|-----------|--------------|----------------------
 <img src="images/user.png" width="180"/> | [Anders](#anders877)  | Andersson | YYMMDD-XXXX  | `anders877`
 
