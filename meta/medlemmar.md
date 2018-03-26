@@ -23,9 +23,9 @@ muntliga presentationer och andra möten.
 **INFO:** Om ni inte vill bråka med syntaxen för tabeller i Markdown går det
  bra att använda HTML-syntax.
 
-Bild                           | Förnamn               | Efternamn | Personnummer | Användarnamn (GitHub)
--------------------------------|-----------------------|-----------|--------------|----------------------
-![](images/user.png|width=100) | [Anders](#anders877)  | Andersson | YYMMDD-XXXX  | `anders877`
+Bild                                     | Förnamn               | Efternamn | Personnummer | Användarnamn (GitHub)
+-----------------------------------------|-----------------------|-----------|--------------|----------------------
+<img src="images/user.png" width="100"/> | [Anders](#anders877)  | Andersson | YYMMDD-XXXX  | `anders877`
 
 **TODO:** Utgå från mallen nedan och skapa ett avsnitt för varje medlem
 i gruppen sorterade i bokstavsordning.
