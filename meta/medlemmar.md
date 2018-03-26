@@ -31,7 +31,7 @@ till `180` pixlar.
 **INFO:** För att länka till en rubrik på formen `En rubrik med åäö` använd
 ankaret `#en-rubrik-med-aao`.
 
-##En rubrik med åäö
+## En rubrik med åäö
 
 Fnutt
 
